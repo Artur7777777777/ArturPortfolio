@@ -205,7 +205,7 @@ const projects: TProject[] = [
       'Social media platform that can upload a video and photos which people can share memories about their loved one who passed away.',
     tags: [
       {
-        name: 'Next',
+        name: 'Vue',
         color: 'blue-text-gradient',
       },
       {
